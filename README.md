@@ -74,7 +74,7 @@ I enjoy turning practical problems into useful software solutions using **Java, 
 
 # 🚀 Featured Projects
 
-## 🔎 FindLost – College Lost & Found Portal
+## 🔎 FindLost – Lost Items & Found Items Portal
 
 A full-stack college **Lost & Found Portal** that helps students report, search, and recover lost items through a centralized web application.
 
